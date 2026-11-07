@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hadith-php-sahih-hasan-grader",
+  "description": "Multi-Criteria Hadith Grading Inference Engine (Sahih/Hasan/Da'if) (محرك الحكم الاستدلالي على الحديث بالصحة أو الحسن أو الضعف)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
